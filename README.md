@@ -1,7 +1,7 @@
 # data-and-analytics :chart_with_upwards_trend: :mag_right: 💻
 
 ### Projetos relacionados a dados, como análises de dados, processos de ETL e dashboards
-#### A ideia é que com passar do tempo novos temas sejam abordados, certamente temas relacionados a área de dados, como Machine Learning e Processo de Engenharia de Dados.
+#### A ideia é que com passar do tempo novos temas sejam abordados, certamente temas relacionados a área de dados, como Machine Learning e Processos de Engenharia de Dados.
 
 ##### O principal objetivo desse repositório é trazer o que venho aprendendo para me aperfeiçoar como profissional da área de dados. :smile:
 
