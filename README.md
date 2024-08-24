@@ -5,11 +5,13 @@
 
 ##### O principal objetivo desse repositório é trazer o que venho aprendendo para me aperfeiçoar como profissional da área de dados. :smile:
 
+
+
 #### Como esse repositório está organizado ?
 
-##### Esse repositório está organizado em pasta, cujo cada qual aborda um tema 
+##### Esse repositório está organizado em pastas, cujo cada qual aborda um tema 
 
 ##### :bar_chart: Pasta 'DashBoards': Essa pasta aborda relatórios gráficos, dentro dela se encontra um arquivo em MarkDown com links de dashboards em PowerBI.
-##### :dart: Pasta 'DataAnalysis': Essa pasta aborda analises de dados, dentro dela se encontra arquivos que abordam análises de dados, bem como processos de ETL.
+##### :dart: Pasta 'DataAnalysis': Essa pasta aborda análises de dados, dentro dela se encontra arquivos que abordam análises de dados, bem como processos de ETL.
 <!-- ##### :wrench: Pasta 'DataEngineer: Essa parta aborda tema relacionados a engenharia de dados -->
 
